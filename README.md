@@ -1,4 +1,4 @@
-![Amazon Logo](https://bit.ly/3vUWuu8)
+![Amazon Logo](https://i.ibb.co/0X1ynnG/amazon.jpg)
 
 ### Statement:
 - To recommend similar products (apparel) to the given product (apparel) on Amazon. Product recommendations are the alternative way of navigating through the online shop, showing similar products to the user which they are searching for.
